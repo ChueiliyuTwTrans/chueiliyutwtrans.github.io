@@ -3,11 +3,18 @@
 
   <url>
     <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/</loc>
-    <lastmod>2026-03-11</lastmod>
+    <lastmod>2026-03-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  <url>
+    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Live/20260312DEBUT_100_Days_LIVE/</loc>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
   <url>
     <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Live/20260306Instagram_Live/</loc>
     <lastmod>2026-03-06</lastmod>
