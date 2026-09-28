@@ -3,7 +3,7 @@
 
   <url>
     <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -175,17 +175,24 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+  
   <url>
-    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Radio/mbc_chinchinbang/20260302/</loc>
+    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Radio/mbc_chinchinbang/</loc>
     <lastmod>2026-05-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Radio/mbc_chinchinbang/</loc>
+    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Radio/mbc_chinchinbang/20260302/</loc>
     <lastmod>2026-05-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://chueiliyutwtrans.github.io/chueiliyu-tw-translation/Radio/mbc_chinchinbang/20260303/</loc>
+    <lastmod>2026-09-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
